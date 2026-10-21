@@ -83,7 +83,15 @@ Aquí iré publicando proyectos académicos y personales para demostrar mi apren
 - [ ] Publicar proyectos documentados en GitHub.
 - [ ] Prepararme para oportunidades profesionales junior.
 
+## `> github_stats`
+
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JulioD3v&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="Estadísticas de GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioD3v&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Lenguajes más utilizados"/>
+
+</div>
 
 ### `Building my skills one commit at a time.`
 
